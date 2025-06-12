@@ -1,0 +1,2 @@
+we’ll create a project that orchestrates two AI agents using the Semantic Kernel SDK. An Incident Manager agent will analyze service log files for issues. If an issue is found, the Incident Manager will recommend a resolution action, and a DevOps Assistant agent will receive the recommendation and invoke the corrective function and perform the resolution. The Incident Manager agent will then review the updated logs to make sure the resolution was successful.
+(https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/05-agent-orchestration.html)
